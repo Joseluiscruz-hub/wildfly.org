@@ -1,6 +1,3 @@
----
-layout: false
----
 {
   "schema": "wildfly.org/support-matrix",
   "schema_version": 1,
